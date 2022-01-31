@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* navigation */
+
+
+.w3-padding-side {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+
+}
+
+.search-po {
+    position: relative !important;
+    top: 55px;
+    left: 73.20vw;
+
+}
+
+/* navigation */
+.w3-bar{ 
+    position: fixed;
+   
+
+}
+
+
+/* slider */
+.mySlides {
+    display: none;
+}
+
+.Slides-width {
+    width: 100%;
+    height: 600px;
+}
+
+/* slider */
+
+
+/* book a room */
+.w3-input-box {
+    display: inline;
+    padding: 8px !important;
+    border: none !important;
+    width: 50% !important;
+    height: 50px !important;
+}
+.w3-size{
+   
+    width: 20% !important;
+
+}
+.w3-card-4 h3{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.w3-card-4 form label{
+    font-size: 25px;
+}
+
+.w3-card-4 button{
+    font-size: 25px;
+}
+
+
+/* about */
+.w3-card-4 img{
+    width: 100%;
+    height: 400px;
+    opacity: 0.8;
+    padding: 55px;
+}
+.w3-btn{
+    margin-left: 50px;
+
+}
+.w3-card-4 h1{
+    padding-top: 20px;
+   
+    font-family: 'Times New Roman', Times, serif;
+}
+.w3-card-4 p{
+    padding:10px 10px 10px 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+
+}
+
+/* team */
+.w3-round-img{
+border-radius: 50px;
+padding: 20px !important;
+
+}
+/* team */
+
+
+/* contact */
+.w3-input-box-contact {
+    display: inline;
+    padding: 8px !important;
+    border: none !important;
+    width: 80% !important;
+    height: 50px !important;
+}
+/* footer */
+
+.socialsites_link{
+    display: inline;
+    padding: 20px;
+}
+
+
+
+
+
